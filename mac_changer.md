@@ -1,6 +1,6 @@
 ## Mac Address Changer
-Changing MAC address makes me anonymous on the network 
-mac addresses are often used by filters to allow or prevent devices in the network and allow devices to do specific tasks in the network - bypass filters, impersonate devices, hide identity 
+(Changing MAC address makes me anonymous on the network)
+Mac addresses are often used by filters to allow or prevent devices in the network and allow devices to do specific tasks in the network - bypass filters, impersonate devices, hide identity 
 `$ifconfig` - lists all network interfaces in device and *informations about each device <sup>[[1]]()</sup>*
 1. **`>eth0`** is a virtual box, using NAT network
 2. **`>lo`** virtual env created by linux
